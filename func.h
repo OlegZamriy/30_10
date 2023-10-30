@@ -3,4 +3,4 @@
 
 using namespace std;
 
-double power(double base, int exponent); 
+double power(double base, int exponent);  
