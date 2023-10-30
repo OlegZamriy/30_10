@@ -3,3 +3,4 @@
 
 using namespace std;
 
+double cube(double number); 
