@@ -22,4 +22,4 @@ void findPerfectNumbers(int start, int end) {
             cout << i << " is a perfect number" << endl;
         }
     }
-}
+} 
