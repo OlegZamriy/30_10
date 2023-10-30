@@ -3,3 +3,4 @@
 
 using namespace std;
 
+void printCard(string suit, string rank); 
