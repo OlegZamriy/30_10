@@ -3,3 +3,4 @@
 
 using namespace std;
 
+bool isPositive(int number); 
